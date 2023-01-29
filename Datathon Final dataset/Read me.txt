@@ -1,2 +1,2 @@
 Note:
-Data of central election of Kaski,Lamjung,Sangjya and Baglung have been cleaned and visualized in their respective folders
+Data of central election of Kaski, Lamjung, Sangjya and Baglung disticts have been cleaned and visualized in their respective folders.
